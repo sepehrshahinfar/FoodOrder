@@ -41,7 +41,8 @@ A complete food ordering application built to practice React features including 
 ## 🚀 Getting Started
 
 1. Clone the repository
-   ```bash
+  ```bash
+   git clone https://github.com/sepehrshahinfar/FoodOrder.git
 2. Install dependencies
    npm install
 3. Start the development server
